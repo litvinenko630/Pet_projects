@@ -25,6 +25,10 @@ Here are some of the projects you can find in this repository:
    
 The Credit Default project aims to develop a predictive model that can accurately predict the likelihood of a borrower defaulting on a loan. The project utilizes machine learning techniques to analyze various factors and historical data to make predictions.
 
+2. **Project Name**: Spaceship Titanic.
+
+The aim of this project is to build a predictive model using machine learning techniques to determine whether passengers on the Spaceship Titanic were transported to another dimension. The project involves comprehensive data preprocessing, exploratory data analysis, and feature engineering to prepare the dataset for training. The model will be fine-tuned using hyperparameter optimization for optimal performance. The ultimate goal is to make accurate predictions on the test data and submit the results for evaluation and ranking on Kaggle's Spaceship Titanic competition. The README.md file provides an overview of the project's objectives, methodology, and steps taken to achieve the final predictions.
+
 ...
 
 ## Getting Started
