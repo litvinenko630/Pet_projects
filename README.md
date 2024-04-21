@@ -29,6 +29,10 @@ The Credit Default project aims to develop a predictive model that can accuratel
 
 The aim of this project is to build a predictive model using machine learning techniques to determine whether passengers on the Spaceship Titanic were transported to another dimension. The project involves comprehensive data preprocessing, exploratory data analysis, and feature engineering to prepare the dataset for training. The model will be fine-tuned using hyperparameter optimization for optimal performance. The ultimate goal is to make accurate predictions on the test data and submit the results for evaluation and ranking on Kaggle's Spaceship Titanic competition. The README.md file provides an overview of the project's objectives, methodology, and steps taken to achieve the final predictions.
 
+3. **Project Name**: Password Strength Checker.
+
+The Password Strength Checker project aims to develop an application that assesses the robustness of passwords. Leveraging machine learning algorithms, the application predicts the strength of a given password, providing users with insights into its vulnerability. The project entails data preprocessing, exploratory data analysis, and the implementation of feature engineering techniques to optimize the dataset for model training. Through fine-tuning and hyperparameter optimization, the model strives for maximum accuracy in evaluating password strength. The README.md file outlines the project's objectives, methodology, and the systematic approach taken to achieve reliable password strength predictions.
+
 ...
 
 ## Getting Started
