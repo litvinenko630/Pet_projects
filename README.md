@@ -37,6 +37,10 @@ The Password Strength Checker project aims to develop an application that assess
 
 This project aims to develop and evaluate a predictive model for insurance claims likelihood assessment, despite the inherent class imbalance in the dataset, sourced from [statso.io](https://statso.io/training-models-on-imbalanced-data-case-study/). The model's objective is to maintain high predictive accuracy across both classes to enable insurers to effectively assess risk and allocate resources. To achieve this, the project involves utilizing machine learning techniques such as decision trees, random forests, while addressing class imbalance through oversampling method during model training. Model evaluation will be conducted using precision, recall, F1-score, ROC-AUC, and cross-validation to ensure robust assessment and fine-tuning of model parameters for improved performance. Ultimately, the project aims to provide actionable insights and recommendations based on the model's predictions to enhance insurers' risk assessment and resource allocation processes.
 
+5. **Project Name**: Health Insurance Charges Prediction (Regression).
+
+This project aims to develop a predictive model for health insurance premium prediction, leveraging a dataset comprising crucial variables such as age, gender, BMI, smoking status, region of residence, number of children, and insurance premium charges. By analyzing these factors, the model seeks to accurately estimate insurance premiums and explore the influence of various demographic and lifestyle factors on premium costs. Ultimately, the project seeks to enhance insurers' risk assessment capabilities, enabling more informed decision-making in resource allocation and improving the overall efficiency of the health insurance industry.
+
 ...
 
 ## Getting Started
