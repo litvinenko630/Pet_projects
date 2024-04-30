@@ -41,6 +41,10 @@ This project aims to develop and evaluate a predictive model for insurance claim
 
 This project aims to develop a predictive model for health insurance premium prediction, leveraging a dataset comprising crucial variables such as age, gender, BMI, smoking status, region of residence, number of children, and insurance premium charges. By analyzing these factors, the model seeks to accurately estimate insurance premiums and explore the influence of various demographic and lifestyle factors on premium costs. Ultimately, the project seeks to enhance insurers' risk assessment capabilities, enabling more informed decision-making in resource allocation and improving the overall efficiency of the health insurance industry.
 
+6. **Project Name**: House Prices Prediction (Regression).
+
+House price prediction involves analyzing various factors to estimate the selling price of residential properties. This process is crucial for both buyers and sellers to make informed decisions about real estate transactions. The dataset used for house price prediction comprises numerous features, including the property's sale price, zoning classification, lot size, building type, overall quality, and other relevant attributes. These variables provide essential insights into property characteristics, which are instrumental in training predictive models.
+
 ...
 
 ## Getting Started
