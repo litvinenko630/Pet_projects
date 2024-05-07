@@ -45,6 +45,10 @@ This project aims to develop a predictive model for health insurance premium pre
 
 House price prediction involves analyzing various factors to estimate the selling price of residential properties. This process is crucial for both buyers and sellers to make informed decisions about real estate transactions. The dataset used for house price prediction comprises numerous features, including the property's sale price, zoning classification, lot size, building type, overall quality, and other relevant attributes. These variables provide essential insights into property characteristics, which are instrumental in training predictive models.
 
+7. **Project Name**: Real Estate Prediction (Regression and Dash App).
+
+The Real Estate Prediction project is a testament to my commitment to honing my data science and machine learning skills. By delving into regression techniques, I aim to deepen my understanding of predictive modeling and its application in real-world scenarios. The inclusion of a Dash App adds an interactive dimension, allowing users to explore and visualize the predictions effortlessly. This project not only showcases my technical prowess but also underscores my dedication to creating practical solutions that leverage advanced analytics for informed decision-making in the real estate domain.
+
 ...
 
 ## Getting Started
