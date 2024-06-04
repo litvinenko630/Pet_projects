@@ -47,7 +47,20 @@ House price prediction involves analyzing various factors to estimate the sellin
 
 7. **Project Name**: Real Estate Prediction (Regression and Dash App).
 
-The Real Estate Prediction project is a testament to my commitment to honing my data science and machine learning skills. By delving into regression techniques, I aim to deepen my understanding of predictive modeling and its application in real-world scenarios. The inclusion of a Dash App adds an interactive dimension, allowing users to explore and visualize the predictions effortlessly. This project not only showcases my technical prowess but also underscores my dedication to creating practical solutions that leverage advanced analytics for informed decision-making in the real estate domain.
+By delving into regression techniques, I aim to deepen my understanding of predictive modeling and its application in real-world scenarios. The inclusion of a Dash App adds an interactive dimension, allowing users to explore and visualize the predictions effortlessly. This project not only showcases my technical prowess but also underscores my dedication to creating practical solutions that leverage advanced analytics for informed decision-making in the real estate domain.
+
+8. **Project Name**: Obesity Risk (Multivariate Analysis and Interactive Visualization).
+
+The Obesity Influence Analysis project reflects my dedication to advancing my expertise in data science and machine learning. This project focuses on multivariate analysis to explore the intricate relationships between various factors and their impact on obesity types. The integration of an interactive visualization tool enhances user engagement, enabling a hands-on approach to understanding the data. This endeavor not only demonstrates my analytical capabilities but also my commitment to developing actionable insights that support healthcare professionals, policy makers, and individuals in making evidence-based health and lifestyle decisions.
+
+9. **Project Name**: Bank Churn Analysis (Predictive Modeling and Interactive Dashboard).
+
+This project is centered around predictive modeling, utilizing regression techniques to ascertain the influence of various factors on bank churn rates. The incorporation of an interactive dashboard allows for a dynamic exploration and visualization of the predictive outcomes. This initiative not only demonstrates my technical acumen but also my commitment to devising practical, data-driven solutions that aid financial institutions, policy makers, and individuals in making well-informed decisions about customer retention strategies.
+
+10. **Project Name**: Flood Probability Prediction (Regression).
+
+This project aims to develop a comprehensive understanding of the relationships between different factors and flood prediction, to innvestigate the impact of various factors such as monsoon intensity, topography drainage, river management, deforestation, urbanization, climate change, dams quality, siltation, agricultural practices, encroachments, ineffective disaster preparedness, drainage systems, coastal vulnerability, landslides, watersheds, deteriorating infrastructure, population score, wetland loss, inadequate planning, and political factors on flood probability. Provide valuable insights to authorities, policymakers, and individuals to facilitate better decision-making regarding flood risk management and mitigation strategies.
+
 
 ...
 
