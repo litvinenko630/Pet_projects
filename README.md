@@ -61,6 +61,9 @@ This project is centered around predictive modeling, utilizing regression techni
 
 This project aims to develop a comprehensive understanding of the relationships between different factors and flood prediction, to innvestigate the impact of various factors such as monsoon intensity, topography drainage, river management, deforestation, urbanization, climate change, dams quality, siltation, agricultural practices, encroachments, ineffective disaster preparedness, drainage systems, coastal vulnerability, landslides, watersheds, deteriorating infrastructure, population score, wetland loss, inadequate planning, and political factors on flood probability. Provide valuable insights to authorities, policymakers, and individuals to facilitate better decision-making regarding flood risk management and mitigation strategies.
 
+11. **Project Name**: Student Outcome Prediction (Multiclass Classification).
+
+This project aims to develop a deep understanding of the multitude of factors influencing student outcomes, utilizing demographic and academic data. The analysis will shed light on how various parameters such as demographic details, previous qualifications, and academic performance affect student outcomes, providing crucial insights for educational institutions, data analysts, and researchers to optimize student support and resource allocation strategies.
 
 ...
 
